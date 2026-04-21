@@ -795,6 +795,320 @@
       "name": "WarioWare, Inc. - Mega Microgame$!",
       "regex": "WarioWare,.*Inc\\..*\\-.*Mega.*Microgame\\$!",
       "file": "gba/WarioWare, Inc. - Mega Microgame$!.mp3"
+    },
+    {
+      "name": "Ninja Five-O",
+      "regex": "Ninja.*Five\\-O",
+      "file": "gba/Ninja Five-O.mp3"
+    },
+    {
+      "name": "Tony Hawk's Pro Skater 2",
+      "regex": "Tony.*Hawk's.*Pro.*Skater.*2",
+      "file": "gba/Tony Hawk's Pro Skater 2.mp3"
+    },
+    {
+      "name": "Mario Tennis - Power Tour",
+      "regex": "Mario.*Tennis.*\\-.*Power.*Tour",
+      "file": "gba/Mario Tennis - Power Tour.mp3"
+    },
+    {
+      "name": "Pokemon Pinball - Ruby & Sapphire",
+      "regex": "Pokemon.*Pinball.*\\-.*Ruby.*\\&.*Sapphire",
+      "file": "gba/Pokemon Pinball - Ruby & Sapphire.mp3"
+    },
+    {
+      "name": "Sonic Advance 2",
+      "regex": "Sonic.*Advance.*2",
+      "file": "gba/Sonic Advance 2.mp3"
+    },
+    {
+      "name": "Mario vs. Donkey Kong",
+      "regex": "Mario.*vs\\..*Donkey.*Kong",
+      "file": "gba/Mario vs. Donkey Kong.mp3"
+    },
+    {
+      "name": "Metroid Fusion",
+      "regex": "Metroid.*Fusion",
+      "file": "gba/Metroid Fusion.mp3"
+    },
+    {
+      "name": "Sonic Advance",
+      "regex": "Sonic.*Advance",
+      "file": "gba/Sonic Advance.mp3"
+    },
+    {
+      "name": "Mario Golf - Advance Tour",
+      "regex": "Mario.*Golf.*\\-.*Advance.*Tour",
+      "file": "gba/Mario Golf - Advance Tour.mp3"
+    },
+    {
+      "name": "Fire Emblem",
+      "regex": "Fire.*Emblem",
+      "file": "gba/Fire Emblem.mp3"
+    },
+    {
+      "name": "Ultimate Card Games",
+      "regex": "Ultimate.*Card.*Games",
+      "file": "gba/Ultimate Card Games.mp3"
+    },
+    {
+      "name": "Super Mario Advance 4 - Super Mario Bros. 3",
+      "regex": "Super.*Mario.*Advance.*4.*\\-.*Super.*Mario.*Bros\\..*3",
+      "file": "gba/Super Mario Advance 4 - Super Mario Bros. 3.mp3"
+    },
+    {
+      "name": "Pokémon Crystal Advance Redux",
+      "regex": "Pokémon.*Crystal.*Advance.*Redux",
+      "file": "gba/Pokémon Crystal Advance Redux.mp3"
+    },
+    {
+      "name": "Metroid - Zero Mission",
+      "regex": "Metroid.*\\-.*Zero.*Mission",
+      "file": "gba/Metroid - Zero Mission.mp3"
+    },
+    {
+      "name": "Apotris",
+      "regex": "Apotris",
+      "file": "gba/Apotris.mp3"
+    },
+    {
+      "name": "Mario Kart - Super Circuit",
+      "regex": "Mario.*Kart.*\\-.*Super.*Circuit",
+      "file": "gba/Mario Kart - Super Circuit.mp3"
+    },
+    {
+      "name": "Super Mario Advance 3 - Yoshi's Island",
+      "regex": "Super.*Mario.*Advance.*3.*\\-.*Yoshi's.*Island",
+      "file": "gba/Super Mario Advance 3 - Yoshi's Island.mp3"
+    },
+    {
+      "name": "Final Fantasy Tactics Advance",
+      "regex": "Final.*Fantasy.*Tactics.*Advance",
+      "file": "gba/Final Fantasy Tactics Advance.mp3"
+    },
+    {
+      "name": "Super Mario Advance 2 - Super Mario World",
+      "regex": "Super.*Mario.*Advance.*2.*\\-.*Super.*Mario.*World",
+      "file": "gba/Super Mario Advance 2 - Super Mario World.mp3"
+    },
+    {
+      "name": "Advance Wars",
+      "regex": "Advance.*Wars",
+      "file": "gba/Advance Wars.mp3"
+    },
+    {
+      "name": "Pokémon Unbound",
+      "regex": "Pokémon.*Unbound",
+      "file": "gba/Pokémon Unbound.mp3"
+    },
+    {
+      "name": "WarioWare, Inc. - Minigame Mania",
+      "regex": "WarioWare,.*Inc\\..*\\-.*Minigame.*Mania",
+      "file": "gba/WarioWare, Inc. - Minigame Mania.mp3"
+    },
+    {
+      "name": "Super Monkey Ball Jr.",
+      "regex": "Super.*Monkey.*Ball.*Jr\\.",
+      "file": "gba/Super Monkey Ball Jr..mp3"
+    },
+    {
+      "name": "Golden Sun",
+      "regex": "Golden.*Sun",
+      "file": "gba/Golden Sun.mp3"
+    },
+    {
+      "name": "Castlevania - Aria of Sorrow",
+      "regex": "Castlevania.*\\-.*Aria.*of.*Sorrow",
+      "file": "gba/Castlevania - Aria of Sorrow.mp3"
+    },
+    {
+      "name": "Pokémon Odyssey",
+      "regex": "Pokémon.*Odyssey",
+      "file": "gba/Pokémon Odyssey.mp3"
+    },
+    {
+      "name": "Legend of Zelda, The - The Minish Cap",
+      "regex": "Legend.*of.*Zelda,.*The.*\\-.*The.*Minish.*Cap",
+      "file": "gba/Legend of Zelda, The - The Minish Cap.mp3"
+    },
+    {
+      "name": "SSX 3",
+      "regex": "SSX.*3",
+      "file": "gba/SSX 3.mp3"
+    },
+    {
+      "name": "Mario & Luigi - Superstar Saga",
+      "regex": "Mario.*\\&.*Luigi.*\\-.*Superstar.*Saga",
+      "file": "gba/Mario & Luigi - Superstar Saga.mp3"
+    },
+    {
+      "name": "Mother 3",
+      "regex": "Mother.*3",
+      "file": "gba/Mother 3.mp3"
+    },
+    {
+      "name": "Harvest Moon - Friends of Mineral Town",
+      "regex": "Harvest.*Moon.*\\-.*Friends.*of.*Mineral.*Town",
+      "file": "gba/Harvest Moon - Friends of Mineral Town.mp3"
     }
-  ]
+  ],
+  "ps1": [
+    {
+      "name": "Crash Bandicoot - Warped",
+      "regex": "Crash.*Bandicoot.*\\-.*Warped",
+      "file": "ps1/Crash Bandicoot - Warped.mp3"
+    },
+    {
+      "name": "Resident Evil - Director's Cut",
+      "regex": "Resident.*Evil.*\\-.*Director's.*Cut",
+      "file": "ps1/Resident Evil - Director's Cut.mp3"
+    },
+    {
+      "name": "Crash Bandicoot",
+      "regex": "Crash.*Bandicoot",
+      "file": "ps1/Crash Bandicoot.mp3"
+    },
+    {
+      "name": "Crash Bandicoot 2 - Cortex Strikes Back",
+      "regex": "Crash.*Bandicoot.*2.*\\-.*Cortex.*Strikes.*Back",
+      "file": "ps1/Crash Bandicoot 2 - Cortex Strikes Back.mp3"
+    }
+  ],
+  "wiiu": [
+    {
+      "name": "Breath of the Wild",
+      "regex": "Breath.*of.*the.*Wild",
+      "file": "wiiu/Breath of the Wild.mp3"
+    },
+    {
+      "name": "007 Legends",
+      "regex": "007.*Legends",
+      "file": "wiiu/007 Legends.mp3"
+    },
+    {
+      "name": "The Wind Waker HD",
+      "regex": "The.*Wind.*Waker.*HD",
+      "file": "wiiu/The Wind Waker HD.mp3"
+    },
+    {
+      "name": "Skylanders Imaginators",
+      "regex": "Skylanders.*Imaginators",
+      "file": "wiiu/Skylanders Imaginators.mp3"
+    }
+  ],
+  "dc": [
+    {
+      "name": "Crazy Taxi",
+      "regex": "Crazy.*Taxi",
+      "file": "dc/Crazy Taxi.mp3"
+    },
+    {
+      "name": "Sonic Adventure 2",
+      "regex": "Sonic.*Adventure.*2",
+      "file": "dc/Sonic Adventure 2.mp3"
+    },
+    {
+      "name": "Sonic Adventure",
+      "regex": "Sonic.*Adventure",
+      "file": "dc/Sonic Adventure.mp3"
+    }
+  ],
+  "ps2": [
+    {
+      "name": "007 - From Russia with Love",
+      "regex": "007.*\\-.*From.*Russia.*with.*Love",
+      "file": "ps2/007 - From Russia with Love.mp3"
+    },
+    {
+      "name": "Ratchet & Clank - Going Commando",
+      "regex": "Ratchet.*\\&.*Clank.*\\-.*Going.*Commando",
+      "file": "ps2/Ratchet & Clank - Going Commando.mp3"
+    },
+    {
+      "name": "007 - Everything or Nothing",
+      "regex": "007.*\\-.*Everything.*or.*Nothing",
+      "file": "ps2/007 - Everything or Nothing.mp3"
+    },
+    {
+      "name": "Maximo - Ghosts to Glory",
+      "regex": "Maximo.*\\-.*Ghosts.*to.*Glory",
+      "file": "ps2/Maximo - Ghosts to Glory.mp3"
+    },
+    {
+      "name": "Oni",
+      "regex": "Oni",
+      "file": "ps2/Oni.mp3"
+    },
+    {
+      "name": "Rayman - Raving Rabbids",
+      "regex": "Rayman.*\\-.*Raving.*Rabbids",
+      "file": "ps2/Rayman - Raving Rabbids.mp3"
+    },
+    {
+      "name": "Matrix, The - Path of Neo",
+      "regex": "Matrix,.*The.*\\-.*Path.*of.*Neo",
+      "file": "ps2/Matrix, The - Path of Neo.mp3"
+    },
+    {
+      "name": "Kingdom Hearts II",
+      "regex": "Kingdom.*Hearts.*II",
+      "file": "ps2/Kingdom Hearts II.mp3"
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell - Chaos Theory",
+      "regex": "Tom.*Clancy's.*Splinter.*Cell.*\\-.*Chaos.*Theory",
+      "file": "ps2/Tom Clancy's Splinter Cell - Chaos Theory.mp3"
+    },
+    {
+      "name": "007 - Nightfire",
+      "regex": "007.*\\-.*Nightfire",
+      "file": "ps2/007 - Nightfire.mp3"
+    },
+    {
+      "name": "Gran Turismo 3 - A-Spec",
+      "regex": "Gran.*Turismo.*3.*\\-.*A\\-Spec",
+      "file": "ps2/Gran Turismo 3 - A-Spec.mp3"
+    },
+    {
+      "name": "Wallace & Gromit in Project Zoo",
+      "regex": "Wallace.*\\&.*Gromit.*in.*Project.*Zoo",
+      "file": "ps2/Wallace & Gromit in Project Zoo.mp3"
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell - Double Agent",
+      "regex": "Tom.*Clancy's.*Splinter.*Cell.*\\-.*Double.*Agent",
+      "file": "ps2/Tom Clancy's Splinter Cell - Double Agent.mp3"
+    },
+    {
+      "name": "Metal Gear Solid 2 - Sons of Liberty",
+      "regex": "Metal.*Gear.*Solid.*2.*\\-.*Sons.*of.*Liberty",
+      "file": "ps2/Metal Gear Solid 2 - Sons of Liberty.mp3"
+    },
+    {
+      "name": "Metal Gear Solid 3 - Snake Eater",
+      "regex": "Metal.*Gear.*Solid.*3.*\\-.*Snake.*Eater",
+      "file": "ps2/Metal Gear Solid 3 - Snake Eater.mp3"
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell",
+      "regex": "Tom.*Clancy's.*Splinter.*Cell",
+      "file": "ps2/Tom Clancy's Splinter Cell.mp3"
+    },
+    {
+      "name": "Ratchet & Clank",
+      "regex": "Ratchet.*\\&.*Clank",
+      "file": "ps2/Ratchet & Clank.mp3"
+    },
+    {
+      "name": "Kingdom Hearts",
+      "regex": "Kingdom.*Hearts",
+      "file": "ps2/Kingdom Hearts.mp3"
+    },
+    {
+      "name": "Ratchet & Clank - Up Your Arsenal",
+      "regex": "Ratchet.*\\&.*Clank.*\\-.*Up.*Your.*Arsenal",
+      "file": "ps2/Ratchet & Clank - Up Your Arsenal.mp3"
+    }
+  ],
+  "sega_cd": []
 }
