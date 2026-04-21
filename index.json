@@ -1110,5 +1110,89 @@
       "file": "ps2/Ratchet & Clank - Up Your Arsenal.mp3"
     }
   ],
-  "sega_cd": []
+  "sega_cd": [
+    {
+      "name": "Sonic CD",
+      "regex": "Sonic.*CD",
+      "file": "sega_cd/Sonic CD.mp3"
+    }
+  ],
+  "scummvm": [
+    {
+      "name": "Dig, The",
+      "regex": "Dig,.*The",
+      "file": "scummvm/Dig, The.mp3"
+    },
+    {
+      "name": "Indiana Jones and the Last Crusade",
+      "regex": "Indiana.*Jones.*and.*the.*Last.*Crusade",
+      "file": "scummvm/Indiana Jones and the Last Crusade.mp3"
+    },
+    {
+      "name": "Curse Of Monkey Island, The",
+      "regex": "Curse.*Of.*Monkey.*Island,.*The",
+      "file": "scummvm/Curse Of Monkey Island, The.mp3"
+    },
+    {
+      "name": "Indiana Jones and the Fate of Atlantis",
+      "regex": "Indiana.*Jones.*and.*the.*Fate.*of.*Atlantis",
+      "file": "scummvm/Indiana Jones and the Fate of Atlantis.mp3"
+    },
+    {
+      "name": "EcoQuest 2 - Lost Secret of the Rainforest",
+      "regex": "EcoQuest.*2.*\\-.*Lost.*Secret.*of.*the.*Rainforest",
+      "file": "scummvm/EcoQuest 2 - Lost Secret of the Rainforest.mp3"
+    },
+    {
+      "name": "Indiana Jones and the Call of Thunder",
+      "regex": "Indiana.*Jones.*and.*the.*Call.*of.*Thunder",
+      "file": "scummvm/Indiana Jones and the Call of Thunder.mp3"
+    },
+    {
+      "name": "Pajama Sam 1 - No Need to Hide When it's Dark Outside",
+      "regex": "Pajama.*Sam.*1.*\\-.*No.*Need.*to.*Hide.*When.*it's.*Dark.*Outside",
+      "file": "scummvm/Pajama Sam 1 - No Need to Hide When it's Dark Outside.mp3"
+    },
+    {
+      "name": "Monkey Island 2 LeChuck's Revenge",
+      "regex": "Monkey.*Island.*2.*LeChuck's.*Revenge",
+      "file": "scummvm/Monkey Island 2 LeChuck's Revenge.mp3"
+    }
+  ],
+  "genesis": [
+    {
+      "name": "Sonic The Hedgehog 2",
+      "regex": "Sonic.*The.*Hedgehog.*2",
+      "file": "genesis/Sonic The Hedgehog 2.mp3"
+    },
+    {
+      "name": "Sonic The Hedgehog 3",
+      "regex": "Sonic.*The.*Hedgehog.*3",
+      "file": "genesis/Sonic The Hedgehog 3.mp3"
+    }
+  ],
+  "gb": [
+    {
+      "name": "Legend of Zelda, The - Link's Awakening",
+      "regex": "Legend.*of.*Zelda,.*The.*\\-.*Link's.*Awakening",
+      "file": "gb/Legend of Zelda, The - Link's Awakening.mp3"
+    },
+    {
+      "name": "Dr. Mario",
+      "regex": "Dr\\..*Mario",
+      "file": "gb/Dr. Mario.mp3"
+    },
+    {
+      "name": "Super Mario Land",
+      "regex": "Super.*Mario.*Land",
+      "file": "gb/Super Mario Land.mp3"
+    }
+  ],
+  "arcade": [
+    {
+      "name": "ssriders",
+      "regex": "ssriders",
+      "file": "arcade/ssriders.mp3"
+    }
+  ]
 }
