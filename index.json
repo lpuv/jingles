@@ -2,497 +2,799 @@
   "name": "luna's jingles",
   "gc": [
     {
+      "name": "Sonic Heroes",
+      "regex": "Sonic.*Heroes",
+      "file": "gc/Sonic Heroes.mp3"
+    },
+    {
+      "name": "Star Wars - Jedi Knight II - Jedi Outcast",
+      "regex": "Star.*Wars.*\\-.*Jedi.*Knight.*II.*\\-.*Jedi.*Outcast",
+      "file": "gc/Star Wars - Jedi Knight II - Jedi Outcast.mp3"
+    },
+    {
       "name": "Star Fox - Assault",
-      "regex": "star.*fox.*assault",
+      "regex": "Star.*Fox.*\\-.*Assault",
       "file": "gc/Star Fox - Assault.mp3"
     },
     {
       "name": "Metroid Prime",
-      "regex": "metroid.*prime",
+      "regex": "Metroid.*Prime",
       "file": "gc/Metroid Prime.mp3"
     },
     {
-      "name": "Luigi's Mansion",
-      "regex": "luigis.*mansion",
-      "file": "gc/Luigi's Mansion.mp3"
-    },
-    {
-      "name": "Simpsons, The - Hit & Run",
-      "regex": "simpsons.*the.*hit.*run",
-      "file": "gc/Simpsons, The - Hit & Run.mp3"
-    },
-    {
-      "name": "Mario Power Tennis",
-      "regex": "mario.*power.*tennis",
-      "file": "gc/Mario Power Tennis.mp3"
-    },
-    {
-      "name": "Sonic Heroes",
-      "regex": "sonic.*heroes",
-      "file": "gc/Sonic Heroes.mp3"
-    },
-    {
-      "name": "Auto Modellista",
-      "regex": "auto.*modellista",
-      "file": "gc/Auto Modellista.mp3"
-    },
-    {
-      "name": "Star Wars - Jedi Knight II - Jedi Outcast",
-      "regex": "star.*wars.*jedi.*knight.*ii.*jedi.*outcast",
-      "file": "gc/Star Wars - Jedi Knight II - Jedi Outcast.mp3"
-    },
-    {
-      "name": "Star Wars - Rogue Squadron II - Rogue Leader",
-      "regex": "star.*wars.*rogue.*squadron.*ii.*rogue.*leader",
-      "file": "gc/Star Wars - Rogue Squadron II - Rogue Leader.mp3"
-    },
-    {
-      "name": "Star Wars - Bounty Hunter",
-      "regex": "star.*wars.*bounty.*hunter",
-      "file": "gc/Star Wars - Bounty Hunter.mp3"
-    },
-    {
-      "name": "Need for Speed - Most Wanted",
-      "regex": "need.*for.*speed.*most.*wanted",
-      "file": "gc/Need for Speed - Most Wanted.mp3"
-    },
-    {
-      "name": "Super Mario Sunshine",
-      "regex": "super.*mario.*sunshine",
-      "file": "gc/Super Mario Sunshine.mp3"
-    },
-    {
       "name": "Need for Speed - Underground 2",
-      "regex": "need.*for.*speed.*underground.*2",
+      "regex": "Need.*for.*Speed.*\\-.*Underground.*2",
       "file": "gc/Need for Speed - Underground 2.mp3"
     },
     {
-      "name": "Pikmin",
-      "regex": "pikmin",
-      "file": "gc/Pikmin.mp3"
-    },
-    {
-      "name": "Star Wars - Rogue Squadron III - Rebel Strike",
-      "regex": "star.*wars.*rogue.*squadron.*iii.*rebel.*strike",
-      "file": "gc/Star Wars - Rogue Squadron III - Rebel Strike.mp3"
+      "name": "Star Wars - Bounty Hunter",
+      "regex": "Star.*Wars.*\\-.*Bounty.*Hunter",
+      "file": "gc/Star Wars - Bounty Hunter.mp3"
     },
     {
       "name": "Paper Mario - The Thousand-Year Door",
-      "regex": "paper.*mario.*the.*thousandyear.*door",
+      "regex": "Paper.*Mario.*\\-.*The.*Thousand\\-Year.*Door",
       "file": "gc/Paper Mario - The Thousand-Year Door.mp3"
+    },
+    {
+      "name": "Luigi's Mansion",
+      "regex": "Luigi's.*Mansion",
+      "file": "gc/Luigi's Mansion.mp3"
+    },
+    {
+      "name": "Pikmin",
+      "regex": "Pikmin",
+      "file": "gc/Pikmin.mp3"
+    },
+    {
+      "name": "Mario Power Tennis",
+      "regex": "Mario.*Power.*Tennis",
+      "file": "gc/Mario Power Tennis.mp3"
+    },
+    {
+      "name": "Super Mario Sunshine",
+      "regex": "Super.*Mario.*Sunshine",
+      "file": "gc/Super Mario Sunshine.mp3"
+    },
+    {
+      "name": "Auto Modellista",
+      "regex": "Auto.*Modellista",
+      "file": "gc/Auto Modellista.mp3"
+    },
+    {
+      "name": "Star Wars - Rogue Squadron II - Rogue Leader",
+      "regex": "Star.*Wars.*\\-.*Rogue.*Squadron.*II.*\\-.*Rogue.*Leader",
+      "file": "gc/Star Wars - Rogue Squadron II - Rogue Leader.mp3"
+    },
+    {
+      "name": "Need for Speed - Most Wanted",
+      "regex": "Need.*for.*Speed.*\\-.*Most.*Wanted",
+      "file": "gc/Need for Speed - Most Wanted.mp3"
+    },
+    {
+      "name": "Star Wars - Rogue Squadron III - Rebel Strike",
+      "regex": "Star.*Wars.*\\-.*Rogue.*Squadron.*III.*\\-.*Rebel.*Strike",
+      "file": "gc/Star Wars - Rogue Squadron III - Rebel Strike.mp3"
+    },
+    {
+      "name": "Simpsons, The - Hit & Run",
+      "regex": "Simpsons,.*The.*\\-.*Hit.*\\&.*Run",
+      "file": "gc/Simpsons, The - Hit & Run.mp3"
+    },
+    {
+      "name": "F-Zero GX",
+      "regex": "F\\-Zero.*GX",
+      "file": "gc/F-Zero GX.mp3"
+    },
+    {
+      "name": "Mario Kart - Double Dash!!",
+      "regex": "Mario.*Kart.*\\-.*Double.*Dash!!",
+      "file": "gc/Mario Kart - Double Dash!!.mp3"
     }
   ],
   "snes": [
     {
       "name": "Donkey Kong Country",
-      "regex": "donkey.*kong.*country",
+      "regex": "Donkey.*Kong.*Country",
       "file": "snes/Donkey Kong Country.mp3"
     },
     {
-      "name": "Super Mario All-Stars",
-      "regex": "super.*mario.*allstars",
-      "file": "snes/Super Mario All-Stars.mp3"
+      "name": "Super Mario World 2 - Yoshi's Island",
+      "regex": "Super.*Mario.*World.*2.*\\-.*Yoshi's.*Island",
+      "file": "snes/Super Mario World 2 - Yoshi's Island.mp3"
     },
     {
       "name": "Mega Man X",
-      "regex": "mega.*man.*x",
+      "regex": "Mega.*Man.*X",
       "file": "snes/Mega Man X.mp3"
     },
     {
-      "name": "ActRaiser",
-      "regex": "actraiser",
-      "file": "snes/ActRaiser.mp3"
-    },
-    {
       "name": "Kirby Super Star",
-      "regex": "kirby.*super.*star",
+      "regex": "Kirby.*Super.*Star",
       "file": "snes/Kirby Super Star.mp3"
     },
     {
-      "name": "F-Zero",
-      "regex": "fzero",
-      "file": "snes/F-Zero.mp3"
-    },
-    {
-      "name": "Super Metroid",
-      "regex": "super.*metroid",
-      "file": "snes/Super Metroid.mp3"
-    },
-    {
-      "name": "Chrono Trigger",
-      "regex": "chrono.*trigger",
-      "file": "snes/Chrono Trigger.mp3"
-    },
-    {
-      "name": "Super Mario World",
-      "regex": "super.*mario.*world",
-      "file": "snes/Super Mario World.mp3"
-    },
-    {
       "name": "Legend of Zelda, The - A Link to the Past",
-      "regex": "legend.*of.*zelda.*the.*a.*link.*to.*the.*past",
+      "regex": "Legend.*of.*Zelda,.*The.*\\-.*A.*Link.*to.*the.*Past",
       "file": "snes/Legend of Zelda, The - A Link to the Past.mp3"
     },
     {
       "name": "Super Mario Kart",
-      "regex": "super.*mario.*kart",
+      "regex": "Super.*Mario.*Kart",
       "file": "snes/Super Mario Kart.mp3"
     },
     {
-      "name": "Super Mario World 2 - Yoshi's Island",
-      "regex": "super.*mario.*world.*2.*yoshis.*island",
-      "file": "snes/Super Mario World 2 - Yoshi's Island.mp3"
-    },
-    {
-      "name": "Super Star Wars",
-      "regex": "super.*star.*wars",
-      "file": "snes/Super Star Wars.mp3"
-    },
-    {
-      "name": "Lemmings",
-      "regex": "lemmings",
-      "file": "snes/Lemmings.mp3"
+      "name": "Super Metroid",
+      "regex": "Super.*Metroid",
+      "file": "snes/Super Metroid.mp3"
     },
     {
       "name": "Teenage Mutant Ninja Turtles IV - Turtles in Time",
-      "regex": "teenage.*mutant.*ninja.*turtles.*iv.*turtles.*in.*time",
+      "regex": "Teenage.*Mutant.*Ninja.*Turtles.*IV.*\\-.*Turtles.*in.*Time",
       "file": "snes/Teenage Mutant Ninja Turtles IV - Turtles in Time.mp3"
+    },
+    {
+      "name": "F-Zero",
+      "regex": "F\\-Zero",
+      "file": "snes/F-Zero.mp3"
+    },
+    {
+      "name": "Super Mario World",
+      "regex": "Super.*Mario.*World",
+      "file": "snes/Super Mario World.mp3"
+    },
+    {
+      "name": "Lemmings",
+      "regex": "Lemmings",
+      "file": "snes/Lemmings.mp3"
+    },
+    {
+      "name": "Super Star Wars",
+      "regex": "Super.*Star.*Wars",
+      "file": "snes/Super Star Wars.mp3"
+    },
+    {
+      "name": "Super Mario All-Stars",
+      "regex": "Super.*Mario.*All\\-Stars",
+      "file": "snes/Super Mario All-Stars.mp3"
+    },
+    {
+      "name": "ActRaiser",
+      "regex": "ActRaiser",
+      "file": "snes/ActRaiser.mp3"
+    },
+    {
+      "name": "Chrono Trigger",
+      "regex": "Chrono.*Trigger",
+      "file": "snes/Chrono Trigger.mp3"
     }
   ],
   "3ds": [
     {
-      "name": "Xenoblade Chronicles 3D -decrypted",
-      "regex": "xenoblade.*chronicles.*3d.*decrypted",
-      "file": "3ds/Xenoblade Chronicles 3D -decrypted.mp3"
-    },
-    {
-      "name": "Pushmo -decrypted",
-      "regex": "pushmo.*decrypted",
-      "file": "3ds/Pushmo -decrypted.mp3"
-    },
-    {
-      "name": "Legend of Zelda, The - Majora's Mask 3D",
-      "regex": "legend.*of.*zelda.*the.*majoras.*mask.*3d",
-      "file": "3ds/Legend of Zelda, The - Majora's Mask 3D.mp3"
-    },
-    {
-      "name": "Pokemon X",
-      "regex": "pokemon.*x",
-      "file": "3ds/Pokemon X.mp3"
-    },
-    {
-      "name": "New Super Mario Bros. 2",
-      "regex": "new.*super.*mario.*bros.*2",
-      "file": "3ds/New Super Mario Bros. 2.mp3"
-    },
-    {
-      "name": "Rune Factory 4",
-      "regex": "rune.*factory.*4",
-      "file": "3ds/Rune Factory 4.mp3"
-    },
-    {
-      "name": "Luigi's Mansion - Dark Moon",
-      "regex": "luigis.*mansion.*dark.*moon",
-      "file": "3ds/Luigi's Mansion - Dark Moon.mp3"
-    },
-    {
-      "name": "Mario & Luigi - Dream Team",
-      "regex": "mario.*luigi.*dream.*team",
-      "file": "3ds/Mario & Luigi - Dream Team.mp3"
-    },
-    {
-      "name": "Professor Layton vs. Phoenix Wright - Ace Attorney",
-      "regex": "professor.*layton.*vs.*phoenix.*wright.*ace.*attorney",
-      "file": "3ds/Professor Layton vs. Phoenix Wright - Ace Attorney.mp3"
-    },
-    {
-      "name": "Fire Emblem Fates - Birthright",
-      "regex": "fire.*emblem.*fates.*birthright",
-      "file": "3ds/Fire Emblem Fates - Birthright.mp3"
-    },
-    {
-      "name": "Pokemon Omega Ruby",
-      "regex": "pokemon.*omega.*ruby",
-      "file": "3ds/Pokemon Omega Ruby.mp3"
-    },
-    {
-      "name": "Cave Story 3D",
-      "regex": "cave.*story.*3d",
-      "file": "3ds/Cave Story 3D.mp3"
-    },
-    {
-      "name": "Ever Oasis",
-      "regex": "ever.*oasis",
-      "file": "3ds/Ever Oasis.mp3"
-    },
-    {
-      "name": "Super Mario 3D Land",
-      "regex": "super.*mario.*3d.*land",
-      "file": "3ds/Super Mario 3D Land.mp3"
-    },
-    {
-      "name": "Kid Icarus - Uprising",
-      "regex": "kid.*icarus.*uprising",
-      "file": "3ds/Kid Icarus - Uprising.mp3"
-    },
-    {
-      "name": "Star Fox 64 3D",
-      "regex": "star.*fox.*64.*3d",
-      "file": "3ds/Star Fox 64 3D.mp3"
-    },
-    {
       "name": "Rhythm Paradise Megamix",
-      "regex": "rhythm.*paradise.*megamix",
+      "regex": "Rhythm.*Paradise.*Megamix",
       "file": "3ds/Rhythm Paradise Megamix.mp3"
     },
     {
-      "name": "Kirby - Triple Deluxe",
-      "regex": "kirby.*triple.*deluxe",
-      "file": "3ds/Kirby - Triple Deluxe.mp3"
-    },
-    {
-      "name": "Phoenix Wright - Ace Attorney - Dual Destinies -decrypted",
-      "regex": "phoenix.*wright.*ace.*attorney.*dual.*destinies.*decrypted",
-      "file": "3ds/Phoenix Wright - Ace Attorney - Dual Destinies -decrypted.mp3"
-    },
-    {
-      "name": "Legend of Zelda, The - A Link Between Worlds",
-      "regex": "legend.*of.*zelda.*the.*a.*link.*between.*worlds",
-      "file": "3ds/Legend of Zelda, The - A Link Between Worlds.mp3"
-    },
-    {
       "name": "Phoenix Wright - Ace Attorney - Spirit of Justice -decrypted",
-      "regex": "phoenix.*wright.*ace.*attorney.*spirit.*of.*justice.*decrypted",
+      "regex": "Phoenix.*Wright.*\\-.*Ace.*Attorney.*\\-.*Spirit.*of.*Justice.*\\-decrypted",
       "file": "3ds/Phoenix Wright - Ace Attorney - Spirit of Justice -decrypted.mp3"
     },
     {
-      "name": "Kirby - Planet Robobot",
-      "regex": "kirby.*planet.*robobot",
-      "file": "3ds/Kirby - Planet Robobot.mp3"
-    },
-    {
-      "name": "WarioWare Gold",
-      "regex": "warioware.*gold",
-      "file": "3ds/WarioWare Gold.mp3"
-    },
-    {
-      "name": "Fire Emblem - Awakening",
-      "regex": "fire.*emblem.*awakening",
-      "file": "3ds/Fire Emblem - Awakening.mp3"
-    },
-    {
-      "name": "Mario Kart 7",
-      "regex": "mario.*kart.*7",
-      "file": "3ds/Mario Kart 7.mp3"
-    },
-    {
       "name": "Animal Crossing - New Leaf",
-      "regex": "animal.*crossing.*new.*leaf",
+      "regex": "Animal.*Crossing.*\\-.*New.*Leaf",
       "file": "3ds/Animal Crossing - New Leaf.mp3"
     },
     {
+      "name": "Fire Emblem - Awakening",
+      "regex": "Fire.*Emblem.*\\-.*Awakening",
+      "file": "3ds/Fire Emblem - Awakening.mp3"
+    },
+    {
+      "name": "Cave Story 3D",
+      "regex": "Cave.*Story.*3D",
+      "file": "3ds/Cave Story 3D.mp3"
+    },
+    {
+      "name": "Xenoblade Chronicles 3D -decrypted",
+      "regex": "Xenoblade.*Chronicles.*3D.*\\-decrypted",
+      "file": "3ds/Xenoblade Chronicles 3D -decrypted.mp3"
+    },
+    {
+      "name": "Phoenix Wright - Ace Attorney - Dual Destinies -decrypted",
+      "regex": "Phoenix.*Wright.*\\-.*Ace.*Attorney.*\\-.*Dual.*Destinies.*\\-decrypted",
+      "file": "3ds/Phoenix Wright - Ace Attorney - Dual Destinies -decrypted.mp3"
+    },
+    {
       "name": "Bravely Default",
-      "regex": "bravely.*default",
+      "regex": "Bravely.*Default",
       "file": "3ds/Bravely Default.mp3"
     },
     {
+      "name": "Super Mario 3D Land",
+      "regex": "Super.*Mario.*3D.*Land",
+      "file": "3ds/Super Mario 3D Land.mp3"
+    },
+    {
+      "name": "Star Fox 64 3D",
+      "regex": "Star.*Fox.*64.*3D",
+      "file": "3ds/Star Fox 64 3D.mp3"
+    },
+    {
+      "name": "Mario Kart 7",
+      "regex": "Mario.*Kart.*7",
+      "file": "3ds/Mario Kart 7.mp3"
+    },
+    {
+      "name": "Pokemon Omega Ruby",
+      "regex": "Pokemon.*Omega.*Ruby",
+      "file": "3ds/Pokemon Omega Ruby.mp3"
+    },
+    {
+      "name": "Legend of Zelda, The - Majora's Mask 3D",
+      "regex": "Legend.*of.*Zelda,.*The.*\\-.*Majora's.*Mask.*3D",
+      "file": "3ds/Legend of Zelda, The - Majora's Mask 3D.mp3"
+    },
+    {
       "name": "Fantasy Life",
-      "regex": "fantasy.*life",
+      "regex": "Fantasy.*Life",
       "file": "3ds/Fantasy Life.mp3"
     },
     {
+      "name": "Luigi's Mansion - Dark Moon",
+      "regex": "Luigi's.*Mansion.*\\-.*Dark.*Moon",
+      "file": "3ds/Luigi's Mansion - Dark Moon.mp3"
+    },
+    {
+      "name": "New Super Mario Bros. 2",
+      "regex": "New.*Super.*Mario.*Bros\\..*2",
+      "file": "3ds/New Super Mario Bros. 2.mp3"
+    },
+    {
+      "name": "Pushmo -decrypted",
+      "regex": "Pushmo.*\\-decrypted",
+      "file": "3ds/Pushmo -decrypted.mp3"
+    },
+    {
       "name": "Legend of Zelda, The - Ocarina of Time 3D",
-      "regex": "legend.*of.*zelda.*the.*ocarina.*of.*time.*3d",
+      "regex": "Legend.*of.*Zelda,.*The.*\\-.*Ocarina.*of.*Time.*3D",
       "file": "3ds/Legend of Zelda, The - Ocarina of Time 3D.mp3"
+    },
+    {
+      "name": "Fire Emblem Fates - Birthright",
+      "regex": "Fire.*Emblem.*Fates.*\\-.*Birthright",
+      "file": "3ds/Fire Emblem Fates - Birthright.mp3"
+    },
+    {
+      "name": "Pokemon X",
+      "regex": "Pokemon.*X",
+      "file": "3ds/Pokemon X.mp3"
+    },
+    {
+      "name": "Kid Icarus - Uprising",
+      "regex": "Kid.*Icarus.*\\-.*Uprising",
+      "file": "3ds/Kid Icarus - Uprising.mp3"
+    },
+    {
+      "name": "Kirby - Planet Robobot",
+      "regex": "Kirby.*\\-.*Planet.*Robobot",
+      "file": "3ds/Kirby - Planet Robobot.mp3"
+    },
+    {
+      "name": "Mario & Luigi - Dream Team",
+      "regex": "Mario.*\\&.*Luigi.*\\-.*Dream.*Team",
+      "file": "3ds/Mario & Luigi - Dream Team.mp3"
+    },
+    {
+      "name": "WarioWare Gold",
+      "regex": "WarioWare.*Gold",
+      "file": "3ds/WarioWare Gold.mp3"
+    },
+    {
+      "name": "Ever Oasis",
+      "regex": "Ever.*Oasis",
+      "file": "3ds/Ever Oasis.mp3"
+    },
+    {
+      "name": "Rune Factory 4",
+      "regex": "Rune.*Factory.*4",
+      "file": "3ds/Rune Factory 4.mp3"
+    },
+    {
+      "name": "Legend of Zelda, The - A Link Between Worlds",
+      "regex": "Legend.*of.*Zelda,.*The.*\\-.*A.*Link.*Between.*Worlds",
+      "file": "3ds/Legend of Zelda, The - A Link Between Worlds.mp3"
+    },
+    {
+      "name": "Kirby - Triple Deluxe",
+      "regex": "Kirby.*\\-.*Triple.*Deluxe",
+      "file": "3ds/Kirby - Triple Deluxe.mp3"
+    },
+    {
+      "name": "Professor Layton vs. Phoenix Wright - Ace Attorney",
+      "regex": "Professor.*Layton.*vs\\..*Phoenix.*Wright.*\\-.*Ace.*Attorney",
+      "file": "3ds/Professor Layton vs. Phoenix Wright - Ace Attorney.mp3"
     }
   ],
   "switch": [
     {
-      "name": "super smash bros ultimate",
-      "regex": "super.*smash.*bros.*ultimate",
-      "file": "switch/super smash bros ultimate.mp3"
-    },
-    {
-      "name": "kirbys return to dream land deluxe",
-      "regex": "kirbys.*return.*to.*dream.*land.*deluxe",
-      "file": "switch/kirbys return to dream land deluxe.mp3"
-    },
-    {
-      "name": "pokemon legends arceus",
-      "regex": "pokemon.*legends.*arceus",
-      "file": "switch/pokemon legends arceus.mp3"
-    },
-    {
-      "name": "super mario odyssey",
-      "regex": "super.*mario.*odyssey",
-      "file": "switch/super mario odyssey.mp3"
-    },
-    {
-      "name": "donkey kong country tropical freeze",
-      "regex": "donkey.*kong.*country.*tropical.*freeze",
-      "file": "switch/donkey kong country tropical freeze.mp3"
-    },
-    {
-      "name": "kirby and the forgotten land",
-      "regex": "kirby.*and.*the.*forgotten.*land",
-      "file": "switch/kirby and the forgotten land.mp3"
-    },
-    {
-      "name": "mario kart 8 deluxe",
-      "regex": "mario.*kart.*8.*deluxe",
-      "file": "switch/mario kart 8 deluxe.mp3"
-    },
-    {
-      "name": "super mario 3d world bowser s fury",
-      "regex": "super.*mario.*3d.*world.*bowser.*s.*fury",
-      "file": "switch/super mario 3d world bowser s fury.mp3"
-    },
-    {
-      "name": "mario rabbids kingdom battle",
+      "name": "Mario Rabbids Kingdom Battle",
       "regex": "mario.*rabbids.*kingdom.*battle",
       "file": "switch/mario rabbids kingdom battle.mp3"
     },
     {
-      "name": "super mario party jamboree",
-      "regex": "super.*mario.*party.*jamboree",
-      "file": "switch/super mario party jamboree.mp3"
-    },
-    {
-      "name": "super mario bros wonder",
-      "regex": "super.*mario.*bros.*wonder",
-      "file": "switch/super mario bros wonder.mp3"
-    },
-    {
-      "name": "mario party superstars",
+      "name": "Mario Party Superstars",
       "regex": "mario.*party.*superstars",
       "file": "switch/mario party superstars.mp3"
     },
     {
-      "name": "tomodachi life living the dream",
+      "name": "Super Mario Odyssey",
+      "regex": "super.*mario.*odyssey",
+      "file": "switch/super mario odyssey.mp3"
+    },
+    {
+      "name": "Kirby And The Forgotten Land",
+      "regex": "kirby.*and.*the.*forgotten.*land",
+      "file": "switch/kirby and the forgotten land.mp3"
+    },
+    {
+      "name": "Mario Kart 8 Deluxe",
+      "regex": "mario.*kart.*8.*deluxe",
+      "file": "switch/mario kart 8 deluxe.mp3"
+    },
+    {
+      "name": "Donkey Kong Country Tropical Freeze",
+      "regex": "donkey.*kong.*country.*tropical.*freeze",
+      "file": "switch/donkey kong country tropical freeze.mp3"
+    },
+    {
+      "name": "Tomodachi Life Living The Dream",
       "regex": "tomodachi.*life.*living.*the.*dream",
       "file": "switch/tomodachi life living the dream.mp3"
     },
     {
-      "name": "super mario maker 2",
+      "name": "Animal Crossing New Horizons",
+      "regex": "animal.*crossing.*new.*horizons",
+      "file": "switch/animal crossing new horizons.mp3"
+    },
+    {
+      "name": "Super Mario 3D World Bowser S Fury",
+      "regex": "super.*mario.*3d.*world.*bowser.*s.*fury",
+      "file": "switch/super mario 3d world bowser s fury.mp3"
+    },
+    {
+      "name": "Super Mario Maker 2",
       "regex": "super.*mario.*maker.*2",
       "file": "switch/super mario maker 2.mp3"
+    },
+    {
+      "name": "Super Mario Bros Wonder",
+      "regex": "super.*mario.*bros.*wonder",
+      "file": "switch/super mario bros wonder.mp3"
+    },
+    {
+      "name": "Super Mario Party Jamboree",
+      "regex": "super.*mario.*party.*jamboree",
+      "file": "switch/super mario party jamboree.mp3"
+    },
+    {
+      "name": "Pokemon Legends Arceus",
+      "regex": "pokemon.*legends.*arceus",
+      "file": "switch/pokemon legends arceus.mp3"
+    },
+    {
+      "name": "Super Smash Bros Ultimate",
+      "regex": "super.*smash.*bros.*ultimate",
+      "file": "switch/super smash bros ultimate.mp3"
+    },
+    {
+      "name": "Kirbys Return To Dream Land Deluxe",
+      "regex": "kirbys.*return.*to.*dream.*land.*deluxe",
+      "file": "switch/kirbys return to dream land deluxe.mp3"
     }
   ],
   "nds": [
     {
-      "name": "New Super Mario Bros.",
-      "regex": "new.*super.*mario.*bros",
-      "file": "nds/New Super Mario Bros..mp3"
-    },
-    {
-      "name": "Animal Crossing - Wild World",
-      "regex": "animal.*crossing.*wild.*world",
-      "file": "nds/Animal Crossing - Wild World.mp3"
-    },
-    {
-      "name": "Mario Kart DS",
-      "regex": "mario.*kart.*ds",
-      "file": "nds/Mario Kart DS.mp3"
-    },
-    {
-      "name": "Phoenix Wright - Ace Attorney",
-      "regex": "phoenix.*wright.*ace.*attorney",
-      "file": "nds/Phoenix Wright - Ace Attorney.mp3"
-    },
-    {
-      "name": "Mario & Luigi - Partners in Time",
-      "regex": "mario.*luigi.*partners.*in.*time",
-      "file": "nds/Mario & Luigi - Partners in Time.mp3"
-    },
-    {
       "name": "Picross 3D",
-      "regex": "picross.*3d",
+      "regex": "Picross.*3D",
       "file": "nds/Picross 3D.mp3"
     },
     {
-      "name": "Professor Layton and the Curious Village",
-      "regex": "professor.*layton.*and.*the.*curious.*village",
-      "file": "nds/Professor Layton and the Curious Village.mp3"
-    },
-    {
-      "name": "Trauma Center - Under the Knife",
-      "regex": "trauma.*center.*under.*the.*knife",
-      "file": "nds/Trauma Center - Under the Knife.mp3"
-    },
-    {
-      "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations",
-      "regex": "phoenix.*wright.*ace.*attorney.*trials.*and.*tribulations",
-      "file": "nds/Phoenix Wright - Ace Attorney - Trials and Tribulations.mp3"
-    },
-    {
-      "name": "Nine Hours, Nine Persons, Nine Doors",
-      "regex": "nine.*hours.*nine.*persons.*nine.*doors",
-      "file": "nds/Nine Hours, Nine Persons, Nine Doors.mp3"
-    },
-    {
-      "name": "Rhythm Heaven",
-      "regex": "rhythm.*heaven",
-      "file": "nds/Rhythm Heaven.mp3"
-    },
-    {
-      "name": "Hotel Dusk - Room 215",
-      "regex": "hotel.*dusk.*room.*215",
-      "file": "nds/Hotel Dusk - Room 215.mp3"
-    },
-    {
-      "name": "Mario & Luigi - Bowser's Inside Story",
-      "regex": "mario.*luigi.*bowsers.*inside.*story",
-      "file": "nds/Mario & Luigi - Bowser's Inside Story.mp3"
-    },
-    {
-      "name": "Sonic Rush",
-      "regex": "sonic.*rush",
-      "file": "nds/Sonic Rush.mp3"
-    },
-    {
-      "name": "Advance Wars - Dual Strike",
-      "regex": "advance.*wars.*dual.*strike",
-      "file": "nds/Advance Wars - Dual Strike.mp3"
-    },
-    {
-      "name": "Ace Attorney Investigations - Miles Edgeworth",
-      "regex": "ace.*attorney.*investigations.*miles.*edgeworth",
-      "file": "nds/Ace Attorney Investigations - Miles Edgeworth.mp3"
-    },
-    {
-      "name": "Tetris DS",
-      "regex": "tetris.*ds",
-      "file": "nds/Tetris DS.mp3"
-    },
-    {
-      "name": "Chrono Trigger",
-      "regex": "chrono.*trigger",
-      "file": "nds/Chrono Trigger.mp3"
-    },
-    {
-      "name": "Phoenix Wright - Ace Attorney - Justice for All",
-      "regex": "phoenix.*wright.*ace.*attorney.*justice.*for.*all",
-      "file": "nds/Phoenix Wright - Ace Attorney - Justice for All.mp3"
-    },
-    {
       "name": "Pokemon - SoulSilver Version",
-      "regex": "pokemon.*soulsilver.*version",
+      "regex": "Pokemon.*\\-.*SoulSilver.*Version",
       "file": "nds/Pokemon - SoulSilver Version.mp3"
     },
     {
-      "name": "5532_-_Gyakuten_Kenji_2_JPN_NDS-BAHAMUT",
-      "regex": "5532gyakutenkenji2jpnndsbahamut",
-      "file": "nds/5532_-_Gyakuten_Kenji_2_JPN_NDS-BAHAMUT.mp3"
+      "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations",
+      "regex": "Phoenix.*Wright.*\\-.*Ace.*Attorney.*\\-.*Trials.*and.*Tribulations",
+      "file": "nds/Phoenix Wright - Ace Attorney - Trials and Tribulations.mp3"
     },
     {
-      "name": "Pokemon - HeartGold Version",
-      "regex": "pokemon.*heartgold.*version",
-      "file": "nds/Pokemon - HeartGold Version.mp3"
+      "name": "Ace Attorney Investigations - Miles Edgeworth",
+      "regex": "Ace.*Attorney.*Investigations.*\\-.*Miles.*Edgeworth",
+      "file": "nds/Ace Attorney Investigations - Miles Edgeworth.mp3"
+    },
+    {
+      "name": "Mario Kart DS",
+      "regex": "Mario.*Kart.*DS",
+      "file": "nds/Mario Kart DS.mp3"
+    },
+    {
+      "name": "Mario & Luigi - Partners in Time",
+      "regex": "Mario.*\\&.*Luigi.*\\-.*Partners.*in.*Time",
+      "file": "nds/Mario & Luigi - Partners in Time.mp3"
     },
     {
       "name": "WarioWare - Touched!",
-      "regex": "warioware.*touched",
+      "regex": "WarioWare.*\\-.*Touched!",
       "file": "nds/WarioWare - Touched!.mp3"
+    },
+    {
+      "name": "Chrono Trigger",
+      "regex": "Chrono.*Trigger",
+      "file": "nds/Chrono Trigger.mp3"
+    },
+    {
+      "name": "Mario & Luigi - Bowser's Inside Story",
+      "regex": "Mario.*\\&.*Luigi.*\\-.*Bowser's.*Inside.*Story",
+      "file": "nds/Mario & Luigi - Bowser's Inside Story.mp3"
+    },
+    {
+      "name": "Phoenix Wright - Ace Attorney - Justice for All",
+      "regex": "Phoenix.*Wright.*\\-.*Ace.*Attorney.*\\-.*Justice.*for.*All",
+      "file": "nds/Phoenix Wright - Ace Attorney - Justice for All.mp3"
+    },
+    {
+      "name": "Phoenix Wright - Ace Attorney",
+      "regex": "Phoenix.*Wright.*\\-.*Ace.*Attorney",
+      "file": "nds/Phoenix Wright - Ace Attorney.mp3"
+    },
+    {
+      "name": "Advance Wars - Dual Strike",
+      "regex": "Advance.*Wars.*\\-.*Dual.*Strike",
+      "file": "nds/Advance Wars - Dual Strike.mp3"
+    },
+    {
+      "name": "Trauma Center - Under the Knife",
+      "regex": "Trauma.*Center.*\\-.*Under.*the.*Knife",
+      "file": "nds/Trauma Center - Under the Knife.mp3"
+    },
+    {
+      "name": "Pokemon - HeartGold Version",
+      "regex": "Pokemon.*\\-.*HeartGold.*Version",
+      "file": "nds/Pokemon - HeartGold Version.mp3"
+    },
+    {
+      "name": "Sonic Rush",
+      "regex": "Sonic.*Rush",
+      "file": "nds/Sonic Rush.mp3"
+    },
+    {
+      "name": "New Super Mario Bros.",
+      "regex": "New.*Super.*Mario.*Bros\\.",
+      "file": "nds/New Super Mario Bros..mp3"
+    },
+    {
+      "name": "Tetris DS",
+      "regex": "Tetris.*DS",
+      "file": "nds/Tetris DS.mp3"
+    },
+    {
+      "name": "Animal Crossing - Wild World",
+      "regex": "Animal.*Crossing.*\\-.*Wild.*World",
+      "file": "nds/Animal Crossing - Wild World.mp3"
+    },
+    {
+      "name": "Hotel Dusk - Room 215",
+      "regex": "Hotel.*Dusk.*\\-.*Room.*215",
+      "file": "nds/Hotel Dusk - Room 215.mp3"
+    },
+    {
+      "name": "Nine Hours, Nine Persons, Nine Doors",
+      "regex": "Nine.*Hours,.*Nine.*Persons,.*Nine.*Doors",
+      "file": "nds/Nine Hours, Nine Persons, Nine Doors.mp3"
+    },
+    {
+      "name": "5532_-_Gyakuten_Kenji_2_JPN_NDS-BAHAMUT",
+      "regex": "5532_\\-_Gyakuten_Kenji_2_JPN_NDS\\-BAHAMUT",
+      "file": "nds/5532_-_Gyakuten_Kenji_2_JPN_NDS-BAHAMUT.mp3"
+    },
+    {
+      "name": "Trauma Center - Under the Knife 2",
+      "regex": "Trauma.*Center.*\\-.*Under.*the.*Knife.*2",
+      "file": "nds/Trauma Center - Under the Knife 2.mp3"
+    },
+    {
+      "name": "Rhythm Heaven",
+      "regex": "Rhythm.*Heaven",
+      "file": "nds/Rhythm Heaven.mp3"
+    },
+    {
+      "name": "Professor Layton and the Curious Village",
+      "regex": "Professor.*Layton.*and.*the.*Curious.*Village",
+      "file": "nds/Professor Layton and the Curious Village.mp3"
+    }
+  ],
+  "wii": [
+    {
+      "name": "Mario Strikers Charged",
+      "regex": "Mario.*Strikers.*Charged",
+      "file": "wii/Mario Strikers Charged.mp3"
+    },
+    {
+      "name": "Super Mario Galaxy",
+      "regex": "Super.*Mario.*Galaxy",
+      "file": "wii/Super Mario Galaxy.mp3"
+    },
+    {
+      "name": "Sonic Unleashed",
+      "regex": "Sonic.*Unleashed",
+      "file": "wii/Sonic Unleashed.mp3"
+    },
+    {
+      "name": "Resident Evil 4 - Wii Edition",
+      "regex": "Resident.*Evil.*4.*\\-.*Wii.*Edition",
+      "file": "wii/Resident Evil 4 - Wii Edition.mp3"
+    },
+    {
+      "name": "Super Mario Galaxy 2",
+      "regex": "Super.*Mario.*Galaxy.*2",
+      "file": "wii/Super Mario Galaxy 2.mp3"
+    },
+    {
+      "name": "Mario Kart Wii",
+      "regex": "Mario.*Kart.*Wii",
+      "file": "wii/Mario Kart Wii.mp3"
+    },
+    {
+      "name": "Trauma Center - New Blood",
+      "regex": "Trauma.*Center.*\\-.*New.*Blood",
+      "file": "wii/Trauma Center - New Blood.mp3"
+    },
+    {
+      "name": "Trauma Team",
+      "regex": "Trauma.*Team",
+      "file": "wii/Trauma Team.mp3"
+    },
+    {
+      "name": "Kirby's Epic Yarn",
+      "regex": "Kirby's.*Epic.*Yarn",
+      "file": "wii/Kirby's Epic Yarn.mp3"
+    },
+    {
+      "name": "Metroid Prime Trilogy",
+      "regex": "Metroid.*Prime.*Trilogy",
+      "file": "wii/Metroid Prime Trilogy.mp3"
+    },
+    {
+      "name": "Kirby's Return to Dream Land",
+      "regex": "Kirby's.*Return.*to.*Dream.*Land",
+      "file": "wii/Kirby's Return to Dream Land.mp3"
+    },
+    {
+      "name": "Mario Party 8",
+      "regex": "Mario.*Party.*8",
+      "file": "wii/Mario Party 8.mp3"
+    },
+    {
+      "name": "Donkey Kong Country Returns",
+      "regex": "Donkey.*Kong.*Country.*Returns",
+      "file": "wii/Donkey Kong Country Returns.mp3"
+    },
+    {
+      "name": "Skylanders - Spyro's Adventure",
+      "regex": "Skylanders.*\\-.*Spyro's.*Adventure",
+      "file": "wii/Skylanders - Spyro's Adventure.mp3"
+    },
+    {
+      "name": "GoldenEye 007",
+      "regex": "GoldenEye.*007",
+      "file": "wii/GoldenEye 007.mp3"
+    },
+    {
+      "name": "New Super Mario Bros. Wii",
+      "regex": "New.*Super.*Mario.*Bros\\..*Wii",
+      "file": "wii/New Super Mario Bros. Wii.mp3"
+    }
+  ],
+  "psp": [
+    {
+      "name": "Lumines - Puzzle Fusion",
+      "regex": "Lumines.*\\-.*Puzzle.*Fusion",
+      "file": "psp/Lumines - Puzzle Fusion.mp3"
+    },
+    {
+      "name": "Grand Theft Auto - Liberty City Stories",
+      "regex": "Grand.*Theft.*Auto.*\\-.*Liberty.*City.*Stories",
+      "file": "psp/Grand Theft Auto - Liberty City Stories.mp3"
+    },
+    {
+      "name": "God of War - Ghost of Sparta",
+      "regex": "God.*of.*War.*\\-.*Ghost.*of.*Sparta",
+      "file": "psp/God of War - Ghost of Sparta.mp3"
+    },
+    {
+      "name": "God of War - Chains of Olympus",
+      "regex": "God.*of.*War.*\\-.*Chains.*of.*Olympus",
+      "file": "psp/God of War - Chains of Olympus.mp3"
+    },
+    {
+      "name": "Midnight Club - L.A. Remix",
+      "regex": "Midnight.*Club.*\\-.*L\\.A\\..*Remix",
+      "file": "psp/Midnight Club - L.A. Remix.mp3"
+    },
+    {
+      "name": "Grand Theft Auto - Chinatown Wars",
+      "regex": "Grand.*Theft.*Auto.*\\-.*Chinatown.*Wars",
+      "file": "psp/Grand Theft Auto - Chinatown Wars.mp3"
+    },
+    {
+      "name": "Metal Gear Solid - Peace Walker",
+      "regex": "Metal.*Gear.*Solid.*\\-.*Peace.*Walker",
+      "file": "psp/Metal Gear Solid - Peace Walker.mp3"
+    },
+    {
+      "name": "Burnout Legends",
+      "regex": "Burnout.*Legends",
+      "file": "psp/Burnout Legends.mp3"
+    },
+    {
+      "name": "Syphon Filter - Dark Mirror",
+      "regex": "Syphon.*Filter.*\\-.*Dark.*Mirror",
+      "file": "psp/Syphon Filter - Dark Mirror.mp3"
+    },
+    {
+      "name": "Crisis Core - Final Fantasy VII",
+      "regex": "Crisis.*Core.*\\-.*Final.*Fantasy.*VII",
+      "file": "psp/Crisis Core - Final Fantasy VII.mp3"
+    },
+    {
+      "name": "Ridge Racer",
+      "regex": "Ridge.*Racer",
+      "file": "psp/Ridge Racer.mp3"
+    },
+    {
+      "name": "Gran Turismo",
+      "regex": "Gran.*Turismo",
+      "file": "psp/Gran Turismo.mp3"
+    }
+  ],
+  "n64": [
+    {
+      "name": "Perfect Dark",
+      "regex": "Perfect.*Dark",
+      "file": "n64/Perfect Dark.mp3"
+    },
+    {
+      "name": "Super Mario 64",
+      "regex": "Super.*Mario.*64",
+      "file": "n64/Super Mario 64.mp3"
+    },
+    {
+      "name": "Mario Kart 64",
+      "regex": "Mario.*Kart.*64",
+      "file": "n64/Mario Kart 64.mp3"
+    },
+    {
+      "name": "GoldenEye 007",
+      "regex": "GoldenEye.*007",
+      "file": "n64/GoldenEye 007.mp3"
+    }
+  ],
+  "ps3": [
+    {
+      "name": "Godfather II, The",
+      "regex": "Godfather.*II,.*The",
+      "file": "ps3/Godfather II, The.mp3"
+    },
+    {
+      "name": "Godfather, The - The Don's Edition",
+      "regex": "Godfather,.*The.*\\-.*The.*Don's.*Edition",
+      "file": "ps3/Godfather, The - The Don's Edition.mp3"
+    }
+  ],
+  "gbc": [
+    {
+      "name": "Mario Golf",
+      "regex": "Mario.*Golf",
+      "file": "gbc/Mario Golf.mp3"
+    },
+    {
+      "name": "Tomb Raider",
+      "regex": "Tomb.*Raider",
+      "file": "gbc/Tomb Raider.mp3"
+    },
+    {
+      "name": "Wario Land 3",
+      "regex": "Wario.*Land.*3",
+      "file": "gbc/Wario Land 3.mp3"
+    },
+    {
+      "name": "Mario Tennis",
+      "regex": "Mario.*Tennis",
+      "file": "gbc/Mario Tennis.mp3"
+    },
+    {
+      "name": "Super Mario Bros. Deluxe",
+      "regex": "Super.*Mario.*Bros\\..*Deluxe",
+      "file": "gbc/Super Mario Bros. Deluxe.mp3"
+    },
+    {
+      "name": "Pokemon Pinball",
+      "regex": "Pokemon.*Pinball",
+      "file": "gbc/Pokemon Pinball.mp3"
+    },
+    {
+      "name": "Donkey Kong Country",
+      "regex": "Donkey.*Kong.*Country",
+      "file": "gbc/Donkey Kong Country.mp3"
+    },
+    {
+      "name": "Legend of Zelda, The - Link's Awakening DX",
+      "regex": "Legend.*of.*Zelda,.*The.*\\-.*Link's.*Awakening.*DX",
+      "file": "gbc/Legend of Zelda, The - Link's Awakening DX.mp3"
+    },
+    {
+      "name": "Kirby - Tilt 'n' Tumble",
+      "regex": "Kirby.*\\-.*Tilt.*'n'.*Tumble",
+      "file": "gbc/Kirby - Tilt 'n' Tumble.mp3"
+    },
+    {
+      "name": "Pokemon Trading Card Game",
+      "regex": "Pokemon.*Trading.*Card.*Game",
+      "file": "gbc/Pokemon Trading Card Game.mp3"
+    },
+    {
+      "name": "Shantae",
+      "regex": "Shantae",
+      "file": "gbc/Shantae.mp3"
+    },
+    {
+      "name": "Pokemon - Silver Version",
+      "regex": "Pokemon.*\\-.*Silver.*Version",
+      "file": "gbc/Pokemon - Silver Version.mp3"
+    },
+    {
+      "name": "Legend of Zelda, The - Oracle of Ages",
+      "regex": "Legend.*of.*Zelda,.*The.*\\-.*Oracle.*of.*Ages",
+      "file": "gbc/Legend of Zelda, The - Oracle of Ages.mp3"
+    },
+    {
+      "name": "Pokemon - Gold Version",
+      "regex": "Pokemon.*\\-.*Gold.*Version",
+      "file": "gbc/Pokemon - Gold Version.mp3"
+    }
+  ],
+  "gba": [
+    {
+      "name": "Sonic Advance 3",
+      "regex": "Sonic.*Advance.*3",
+      "file": "gba/Sonic Advance 3.mp3"
+    },
+    {
+      "name": "Mother 1+2",
+      "regex": "Mother.*1\\+2",
+      "file": "gba/Mother 1+2.mp3"
+    },
+    {
+      "name": "Golden Sun - The Lost Age",
+      "regex": "Golden.*Sun.*\\-.*The.*Lost.*Age",
+      "file": "gba/Golden Sun - The Lost Age.mp3"
+    },
+    {
+      "name": "Legend of Zelda, The - A Link to the Past & Four Swords",
+      "regex": "Legend.*of.*Zelda,.*The.*\\-.*A.*Link.*to.*the.*Past.*\\&.*Four.*Swords",
+      "file": "gba/Legend of Zelda, The - A Link to the Past & Four Swords.mp3"
+    },
+    {
+      "name": "WarioWare - Twisted!",
+      "regex": "WarioWare.*\\-.*Twisted!",
+      "file": "gba/WarioWare - Twisted!.mp3"
+    },
+    {
+      "name": "WarioWare, Inc. - Mega Microgame$!",
+      "regex": "WarioWare,.*Inc\\..*\\-.*Mega.*Microgame\\$!",
+      "file": "gba/WarioWare, Inc. - Mega Microgame$!.mp3"
     }
   ]
 }
