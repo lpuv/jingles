@@ -186,6 +186,11 @@
       "file": "3ds/Animal Crossing - New Leaf.mp3"
     },
     {
+      "name": "Apollo Justice - Ace Attorney -decrypted",
+      "regex": "Apollo.*Justice.*\\-.*Ace.*Attorney.*\\-decrypted",
+      "file": "3ds/Apollo Justice - Ace Attorney -decrypted.mp3"
+    },
+    {
       "name": "Fire Emblem - Awakening",
       "regex": "Fire.*Emblem.*\\-.*Awakening",
       "file": "3ds/Fire Emblem - Awakening.mp3"
