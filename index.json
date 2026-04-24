@@ -547,6 +547,11 @@
       "file": "wii/Super Mario Galaxy 2.mp3"
     },
     {
+      "name": "Mario Kart Wii Deluxe X",
+      "regex": "Mario.*Kart.*Wii.*Deluxe.*X",
+      "file": "wii/Mario Kart Wii Deluxe X.mp3"
+    },
+    {
       "name": "Mario Kart Wii",
       "regex": "Mario.*Kart.*Wii",
       "file": "wii/Mario Kart Wii.mp3"
