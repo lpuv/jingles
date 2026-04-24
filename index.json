@@ -171,11 +171,6 @@
   ],
   "3ds": [
     {
-      "name": "Rhythm Paradise Megamix",
-      "regex": "Rhythm.*Paradise.*Megamix",
-      "file": "3ds/Rhythm Paradise Megamix.mp3"
-    },
-    {
       "name": "Phoenix Wright - Ace Attorney - Spirit of Justice -decrypted",
       "regex": "Phoenix.*Wright.*\\-.*Ace.*Attorney.*\\-.*Spirit.*of.*Justice.*\\-decrypted",
       "file": "3ds/Phoenix Wright - Ace Attorney - Spirit of Justice -decrypted.mp3"
@@ -279,6 +274,11 @@
       "name": "Kid Icarus - Uprising",
       "regex": "Kid.*Icarus.*\\-.*Uprising",
       "file": "3ds/Kid Icarus - Uprising.mp3"
+    },
+    {
+      "name": "Rhythm Heaven Megamix",
+      "regex": "Rhythm.*Heaven.*Megamix",
+      "file": "3ds/Rhythm Heaven Megamix.mp3"
     },
     {
       "name": "Kirby - Planet Robobot",
@@ -495,14 +495,14 @@
       "file": "nds/Hotel Dusk - Room 215.mp3"
     },
     {
+      "name": "Gyakuten Kenji 2",
+      "regex": "Gyakuten.*Kenji.*2",
+      "file": "nds/Gyakuten Kenji 2.mp3"
+    },
+    {
       "name": "Nine Hours, Nine Persons, Nine Doors",
       "regex": "Nine.*Hours,.*Nine.*Persons,.*Nine.*Doors",
       "file": "nds/Nine Hours, Nine Persons, Nine Doors.mp3"
-    },
-    {
-      "name": "5532_-_Gyakuten_Kenji_2_JPN_NDS-BAHAMUT",
-      "regex": "5532_\\-_Gyakuten_Kenji_2_JPN_NDS\\-BAHAMUT",
-      "file": "nds/5532_-_Gyakuten_Kenji_2_JPN_NDS-BAHAMUT.mp3"
     },
     {
       "name": "Trauma Center - Under the Knife 2",
@@ -912,11 +912,6 @@
       "file": "gba/Pokémon Unbound.mp3"
     },
     {
-      "name": "WarioWare, Inc. - Minigame Mania",
-      "regex": "WarioWare,.*Inc\\..*\\-.*Minigame.*Mania",
-      "file": "gba/WarioWare, Inc. - Minigame Mania.mp3"
-    },
-    {
       "name": "Super Monkey Ball Jr.",
       "regex": "Super.*Monkey.*Ball.*Jr\\.",
       "file": "gba/Super Monkey Ball Jr..mp3"
@@ -1204,5 +1199,6 @@
       "regex": "ssriders",
       "file": "arcade/ssriders.mp3"
     }
-  ]
+  ],
+  "romm-bios": []
 }
